@@ -3,7 +3,7 @@
 ### [rsschool-cv-markdown](https://seygorin.github.io/rsschool-cv/cv)
 ### [rsschool-cv](https://seygorin.github.io/rsschool-cv/)
 ### [Project: Plants](https://rolling-scopes-school.github.io/seygorin-JSFEPRESCHOOL2022Q4/plants/)
-### [Project: Plants](https://seygorin-stage0-momentum.netlify.app/)
+### [Project: Momentum](https://seygorin-stage0-momentum.netlify.app/)
 ********* 
 ### [Certificate](https://app.rs.school/certificate/tou2voy2)
 
