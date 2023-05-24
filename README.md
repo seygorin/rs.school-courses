@@ -1,7 +1,7 @@
 ## RS SCHOOL Stage: 0;
 
-### [rsschool-cv-markdown](https://seygorin.github.io/rsschool-cv/cv)
-### [rsschool-cv](https://seygorin.github.io/rsschool-cv/)
+### [rsschool-cv-markdown](https://seygorin.github.io/rs.school-stage0/cv)
+### [rsschool-cv](https://seygorin.github.io/rs.school-stage0/)
 ### [Project: Plants](https://rolling-scopes-school.github.io/seygorin-JSFEPRESCHOOL2022Q4/plants/)
 ### [Project: Momentum](https://seygorin-stage0-momentum.netlify.app/)
 ********* 
