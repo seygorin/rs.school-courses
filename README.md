@@ -2,10 +2,10 @@
 
 ## **Stage 0**
 
-### [rsschool-cv-markdown](https://seygorin.github.io/rs.school-stage0-2/cv)  
+### [rsschool-cv-markdown](https://seygorin.github.io/rs.school-courses/cv)  
 **Task:** [Markdown & Git]()
 
-### [rsschool-cv](https://seygorin.github.io/rs.school-stage0-2/)  
+### [rsschool-cv](https://seygorin.github.io/rs.school-courses/)  
 **Task:** [CV](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/cv-stage0.md)
 
 ### [Project: Plants](https://rolling-scopes-school.github.io/seygorin-JSFEPRESCHOOL2022Q4/plants/)  
