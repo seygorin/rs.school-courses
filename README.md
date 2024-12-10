@@ -1,7 +1,10 @@
-# RS School Completed Courses progressions 
+# [RS School](https://rs.school/) Completed Courses progressions
 
-## **Stage 0**
+## **Stage: 0**
 
+<details>
+  <summary>Projects list</summary>
+  
 ### [rsschool-cv-markdown](https://seygorin.github.io/rs.school-courses/cv)  
 **Task:** [Markdown & Git]()
 
@@ -14,6 +17,8 @@
 ### [Project: Momentum](https://seygorin-stage0-momentum.netlify.app/)  
 **Task:** [Momentum](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/momentum/momentum.md)
 
+</details>
+
 ### Certificate  
 [View Certificate](https://app.rs.school/certificate/tou2voy2)
 
@@ -21,8 +26,12 @@
 
 ---
 
-## **Stage 1–2**
+## **Stage: 1–2**
 
+
+<details>
+  <summary>Projects list</summary>
+  
 ### [Project: Codejam#1 2023Q1](https://seygorin.github.io/cssBayan/)  
 **Task:** [CSS-Bayan-task](https://github.com/DrDiman/CSS-Bayan-task)
 
@@ -47,6 +56,8 @@
 ### [Project: HTML Presentation about TypeScript](https://rolling-scopes-school.github.io/seygorin-JSFE2023Q1/presentation/)  
 **Task:** [Presentation](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/presentation-recorded.md)
 
+</details>
+
 ### Certificate  
 _Not completed_
 
@@ -54,6 +65,10 @@ _Not completed_
 
 ## **Stage: React**
 
+
+<details>
+  <summary>Projects list</summary>
+  
 ### [Star Wars Characters Search App](https://github.com/seygorin/RSS-react-tasks/pull/1)  
 **Task:** [React project setup. Class components. Error boundary](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/tasks/class-components.md)
 
@@ -72,7 +87,51 @@ _Not completed_
 ### [REST/GraphiQL Client with Team](https://graphiql-app-seygorin.vercel.app/en)  
 **Task:** [REST/GraphiQL Client](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/tasks/final.md)
 
+</details>
+
 ### Certificate  
 [View Certificate](https://app.rs.school/certificate/0x81g1en)
 
 <img src="https://github.com/user-attachments/assets/be8994e0-b9ca-4b5c-867e-aae6bdc4a82b" alt="Certificate" width="900"/>
+
+---
+
+## **Stage: NodeJS**
+
+
+<details>
+  <summary>Projects list</summary>
+  
+### [Node.js: Basics](https://github.com/seygorin/node-nodejs-basics/pull/1)  
+**Task:** [Node.js basics](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/nodejs-basics/assignment.md)
+
+### [File Manager](https://github.com/seygorin/node-nodejs-filemanager/pull/1)  
+**Task:** [File Manager](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/file-manager/assignment.md)
+
+### [Basic Testing](https://github.com/seygorin/basic-testing/pull/1)  
+**Task:** [Basic Testing](https://github.com/AlreadyBored/basic-testing)
+
+### [CRUD API](https://github.com/seygorin/node-nodejs-crud-api/pull/1)  
+**Task:** [CRUD API](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/crud-api/assignment.md)
+
+### [Websocket Battleship Server](https://github.com/seygorin/node-websocket-battleship/pull/1)  
+**Task:** [Websocket battleship server](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/battleship/assignment.md)
+
+### [Node.js: Graphql](https://github.com/seygorin/nodejs-graphql/pull/1)  
+**Task:** [Graphql](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/graphql-service/assignment.md)
+
+### [REST Service, Part 1](https://github.com/seygorin/nodejs2024Q3-service/pull/1)  
+**Task:** [REST Service](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/rest-service/assignment.md)
+
+### [REST Service, Part 2](https://github.com/seygorin/nodejs2024Q3-service/pull/1)  
+**Task:** [REST service: Containerization, Docker and Database & ORM](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/containerization-database-orm/assignment.md)
+
+### [REST Service, Part 3](https://github.com/seygorin/nodejs2024Q3-service/pull/2)  
+**Task:** [REST service: Logging & Error Handling and Authentication and Authorization](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/logging-error-authentication-authorization/assignment.md)
+
+</details>
+
+### Certificate  
+[View Certificate](https://app.rs.school/certificate/kl02ysrp)
+
+<img src="https://github.com/user-attachments/assets/1686bc8a-3309-4aaf-a542-0bf623b52543" alt="Certificate" width="900"/>
