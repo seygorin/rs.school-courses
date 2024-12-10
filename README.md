@@ -135,3 +135,34 @@ _Not completed_
 [View Certificate](https://app.rs.school/certificate/kl02ysrp)
 
 <img src="https://github.com/user-attachments/assets/1686bc8a-3309-4aaf-a542-0bf623b52543" alt="Certificate" width="900"/>
+
+
+# [EMAP Campus](https://campus.epam.com/en) Completed Courses progressions
+
+## **Stage: undefined**
+
+<details>
+  <summary>Projects list</summary>
+  
+### HTML and CSS:
+**Task:** [CSS Basic hometask](https://gitlab.com/seygorin/css-basic-hometask),
+[CSS Preprocessors](https://gitlab.com/seygorin/css-preprocessors),
+[Mentoring HTML CSS](https://gitlab.com/seygorin/mentoring-html-css/-/tree/master?ref_type=heads),
+[HTML Essentials hometask](https://gitlab.com/seygorin/html-essentials-hometask),
+[CSS Transforms and Animations](https://gitlab.com/seygorin/css-transforms-and-animations),
+[CSS Flex Grid hometask](https://gitlab.com/seygorin/css-flex-grid-hometask),
+
+### JavaScript Basics and Advanced, and TypeScript:
+**Task:** [Set up a Project and it's Dependencies](https://gitlab.com/seygorin/set-up-a-project-and-its-dependencies),
+[Mastering JavaScript Events-Patterns](https://gitlab.com/seygorin/mastering-javascript-events),
+
+### React:
+**Task:** [CV Application](https://gitlab.com/seygorin/cv-application),
+[Creating Application React](https://gitlab.com/seygorin/creating-application-react),
+</details>
+
+### Certificate  
+[View Certificate](https://certificates.epam.com/certificates/64c5d561-9114-41d5-bd5c-716b02e20712)
+
+<img src="https://github.com/user-attachments/assets/76341216-5650-4b6f-9148-e5fb9913a1bf" alt="Certificate" width="900"/>
+
