@@ -136,6 +136,51 @@ _Not completed_
 
 <img src="https://github.com/user-attachments/assets/1686bc8a-3309-4aaf-a542-0bf623b52543" alt="Certificate" width="900"/>
 
+## **Stage: Short Track 2k25**
+
+
+<details>
+  <summary>Projects list</summary>
+  
+### [Intro - Readme](https://rolling-scopes-school.github.io/seygorin-EPAMST2025Q1/)  
+**Task:** [Task 1: Intro - Readme](https://rolling-scopes-school.github.io/epam-short-track/core-js-ts/tasks/intro/)
+
+### [Auto-complete](https://github.com/rolling-scopes-school/seygorin-EPAMST2025Q1/pull/3)  
+**Task:** [Task 2. Auto-complete](https://rolling-scopes-school.github.io/epam-short-track/core-js-ts/tasks/auto-complete/)
+
+### [Deep-copy](https://github.com/rolling-scopes-school/seygorin-EPAMST2025Q1/pull/4)  
+**Task:** [Task 3. Deep-copy](https://rolling-scopes-school.github.io/epam-short-track/core-js-ts/tasks/deep-copy/)
+
+### [Custom-lodash](https://github.com/rolling-scopes-school/seygorin-EPAMST2025Q1/pull/5) 
+**Task:** [Task 4. Custom-lodash](https://rolling-scopes-school.github.io/epam-short-track/core-js-ts/tasks/custom-lodash/)
+
+### [TS-Custom-lodash](https://github.com/rolling-scopes-school/seygorin-EPAMST2025Q1/pull/6)  
+**Task:** [Task 5. TS-Custom-lodash](https://rolling-scopes-school.github.io/epam-short-track/core-js-ts/tasks/ts-custom-lodash/)
+
+### [Javascript Classes & Inheritance](https://github.com/rolling-scopes-school/seygorin-EPAMST2025Q1/pull/7)  
+**Task:** [Task 6. Javascript Classes & Inheritance](https://rolling-scopes-school.github.io/epam-short-track/core-js-ts/tasks/js-classes/)
+
+### [Async](https://github.com/rolling-scopes-school/seygorin-EPAMST2025Q1/pull/8) 
+**Task:** [Task 7. Async](https://rolling-scopes-school.github.io/epam-short-track/core-js-ts/tasks/async/)
+
+### [Basic Testing](https://github.com/rolling-scopes-school/seygorin-EPAMST2025Q1/pull/9)  
+**Task:** [Task 8. Basic Testing](https://rolling-scopes-school.github.io/epam-short-track/node/tasks/basic-testing/)
+
+### [CI/CD](https://github.com/seygorin/ci-cd/pull/8)  
+**Task:** [Task 9. Setting Up CI/CD, Accessibility (A11y), and Performance Optimization](https://rolling-scopes-school.github.io/epam-short-track/core-js-ts/tasks/ci-cd/)
+
+### [YouTube Client App](https://github.com/seygorin/youtube-client-app)  
+**Task:** [Task 10. YouTube Client App Final Assignment](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/tasks/README.md)
+
+</details>
+
+### Certificate  
+[View Certificate](https://app.rs.school/certificate/cgfvg060)
+
+<img src="https://github.com/user-attachments/assets/d08598fe-cd6d-4389-a9f7-89950e0b755f" alt="Certificate" width="900"/>
+
+
+
 
 # [EMAP Campus](https://campus.epam.com/en) Completed Courses progressions
 
