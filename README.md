@@ -179,8 +179,30 @@ _Not completed_
 
 <img src="https://github.com/user-attachments/assets/d08598fe-cd6d-4389-a9f7-89950e0b755f" alt="Certificate" width="900"/>
 
+## **Stage: Angular**
 
 
+<details>
+  <summary>Projects list</summary>
+  
+### [Smart Home UI: Part 1](https://github.com/seygorin/smart-home-ui/pull/1)  
+**Task:** [Task 1. Smart Home UI](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-smart-home-ui/smart-home-part-1.md)
+
+### [Smart Home UI. Part 2](https://github.com/seygorin/smart-home-ui/pull/2)  
+**Task:** [Task 2. Smart Home UI](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-smart-home-ui/smart-home-part-2.md)
+
+### [Smart Home UI. Part 3](https://github.com/seygorin/smart-home-ui/pull/3)  
+**Task:** [Task 3. Smart Home UI](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-smart-home-ui/smart-home-part-3.md)
+
+### [ChatGPT Clone - Final Project](https://github.com/seygorin/chat-gpt-clone/pull/1) 
+**Task:** [Task 4. RS Clone – Angular Final Project (Team of 3, 1 month)](https://github.com/rolling-scopes-school/tasks/tree/master/angular/modules/rsclone)
+
+</details>
+
+### Certificate  
+[View Certificate](https://app.rs.school/certificate/bq28c8ak)
+
+<img src="https://github.com/user-attachments/assets/23d0d15a-0d8d-44f1-bb66-db397ac2b249" alt="Certificate" width="900"/>
 
 # [EMAP Campus](https://campus.epam.com/en) Completed Courses progressions
 
